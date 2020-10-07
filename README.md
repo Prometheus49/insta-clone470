@@ -65,4 +65,4 @@ User can reset their passwood by email authentication, where link in email will 
 ![](shots/resetmail.PNG)
 
 
-#Choose your desired platform to host.......goodluck.
+# Choose your desired platform to host.......goodluck.
